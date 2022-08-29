@@ -1,2 +1,2 @@
 # Dataset-V1
-CORE-Lens paper dataset (continuously updating)
+This dataset is a initial release of CORE-Lens paper, including ten classes of object (including bottle, box, book, scissors, laptop, plant, toy, teapot, bag and cap), six different backgrounds (whitewall, pink, blue, mosaic, gray and colorful poster) and three varying frequencies (4kbps, 5kbps and 6kbps). Since the dataset is being enriched, we will continuously update new image data later.
