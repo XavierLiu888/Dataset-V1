@@ -3,3 +3,4 @@
 .Blue filter=lfs diff=lfs merge=lfs -text
 Blue filter=lfs diff=lfs merge=lfs -text
 *.jpg filter=lfs diff=lfs merge=lfs -text
+*.jpg[[:space:]]*.png filter=lfs diff=lfs merge=lfs -text
